@@ -33,7 +33,7 @@ global eggItems := ["Common Egg", "Common Sum Egg", "Rare Sum Egg"
     , "Mythical Egg", "Paradise Egg" ,"Bug Egg"]
 
 ; Edit this to change what you want to be pinged for
-global pingList := ["Beanstalk Seed", "Ember Lily", "Sugar Apple", "Burning Bud","Giant Pinecone Seed","Elder Strawberry", "Master Sprinkler", "Grandmaster Sprinkler", "Levelup Lollipop", "Medium Treat", "Medium Toy", "Mythical Egg", "Paradise Egg", "Bug Egg"]
+global pingList := []
 
 ; - Technical stuff below, no touchy! -
 global allList := []
