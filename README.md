@@ -20,6 +20,13 @@ We will try our best to update the macro if and when it breaks.
 Make sure you have UI navigation turned on
 Make sure you have zero speed effectiing pets equip like Brown mouse, Raptor ect.
 
-## If you want to support me you can follow me on roblox :)
-User Greenrockjam
+## Support Me!
+
+If you want to support me you can follow me on roblox :)
+
 Link: https://www.roblox.com/users/393867803/profile
+
+User Greenrockjam 
+
+
+
